@@ -1,3 +1,5 @@
+#Задание 2
+
 time_sec = int(input("Введите время в секундах:"))
 if time_sec < 60:
     print(f"00:00:{time_sec}")
