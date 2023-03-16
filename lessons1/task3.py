@@ -1,3 +1,5 @@
+#Задание 3
+
 input_var = input("Введите число:")
 var1 = int(input_var)
 var2 = int(input_var+input_var)
